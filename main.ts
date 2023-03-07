@@ -1,3 +1,4 @@
 interface Main {
-    name: string
+    name: string;
+    age: number
 }
