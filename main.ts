@@ -1,4 +1,5 @@
 interface Main {
     name: string;
-    age: number
+    age: number;
+    id: string;
 }
